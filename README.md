@@ -15,6 +15,8 @@ Geography, Gender, Age, Credit Score, Balance,Estimated Salary, Active Member,No
 
 Target Variable: Exited (1 = Churn, 0 = Stay)
 
+
+
 🔧 Technologies Used
 Python
 
@@ -24,6 +26,7 @@ Scikit-learn, XGBoost
 
 Jupyter Notebook
 
+
 ✨ Future Improvements
 Add more models (e.g., Neural Networks)
 
@@ -31,11 +34,6 @@ Deploy as a web app using Flask or Streamlit
 
 Improve feature engineering
 
-📜 License
-This project is licensed under the MIT License.
-
-🙌 Contributing
-Feel free to fork this repository and make improvements! Open a pull request when you're ready.
 
 📞 Contact
 GitHub: https://github.com/obianujuAngel
